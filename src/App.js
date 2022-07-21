@@ -12,6 +12,7 @@ function App() {
           name: 'Nawed Ali'
         }}
       />
+      <a href="/about">About</a>
       <Button
         label="Submit"
         onClick={() => { }}
